@@ -17,16 +17,16 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 > Die folgenden Klauseln  dienen der **Festlegung Urheberrechtsinhaber & Nutzungsrecht.**
 
 
-1.1 Das Urheberrecht der erzeugten und verarbeiteten Daten liegt ausschließlich und zeitlich unbefristet bei der Stadt `Musterstadt`.
+1.1 Das uneingeschränkte und zeitlich unbefristete Nutzungs-, Verwertungs- und Vervielfältigungsrecht an den erzeugten und verarbeiteten Daten, soweit diese nicht in den Schutzbereich der Datenschutzgrundverordnung (Verordnung (EU) 2016/679 des Europäischen Parlaments) fallen, liegt bei der Stadt `Musterstadt`.
 
-1.2 Das Urheberrecht umfasst dabei das uneingeschränkte und zeitlich unbefristete Nutzungsrecht der Stadt `Musterstadt` an den erzeugten und verarbeiteten Daten. Das Nutzungsrecht umfasst dabei auch das Recht zu einer Open Data-Veröffentlichung unter einer von der Stadt `Musterstadt` frei wählbaren Datenlizenz sowie jedwedes Recht zu einer beliebigen Weiterverarbeitung durch die Stadt `Musterstadt`.
+1.2 Das  Nutzungs-, Verwertungs- und Vervielfältigungsrecht umfasst dabei auch etwige an diesen Daten oder Datenbanken entstandene Urheberrechte sowie sonstige Schutzrechte. Das Nutzungsrecht umfasst ferner auch das Recht zu einer Open Data-Veröffentlichung unter einer von der Stadt `Musterstadt` frei wählbaren Datenlizenz sowie jedwedes Recht zu einer beliebigen Weiterverarbeitung durch die Stadt `Musterstadt`.
 
 1.3 Eine Datennutzung der erzeugten und verarbeiteten Daten durch den Auftragnehmer ist gesondert schriftlich zu vereinbaren.
 
 
 > Erläuterung zu den Punkten:
-> * Zweck 1.1: Urheberrecht festlegen. Situation insbesondere bei Clouddiensten und Datenbankrechte bei extern gehosteten Verfahren. Kann auch sinnvoll sein bei Werkverträgen.
-> * Zweck 1.2: Klärung Urheberrecht und Nutzungsrecht. Nur Nutzungsrecht ist ggf. zu wenig, da Rechte entzogen bzw. bei zeitlich befristeten Verträgen ablaufen können.
+> * Zweck 1.1: Nutzungsrecht festlegen. Situation insbesondere bei Clouddiensten und Datenbankrechte bei extern gehosteten Verfahren. Kann auch sinnvoll sein bei Werkverträgen. Für personenebezogene Daten ist auf die Vorschriften der DSGVO zu achten.
+> * Zweck 1.2: Klärung Urheberrecht und Nutzungsrecht.
 > * Zweck 1.3: Konkretisierung Auftragsdatenverarbeitung und Datenabfluss / Nachnutzung ohne Wissen des Auftraggebers
 
 
